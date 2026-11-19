@@ -1,0 +1,298 @@
+{
+  "document": {
+    "blocks": [
+      {
+        "type": "p",
+        "text": "МИНИСТЕРСТВО ОБРАЗОВАНИЯ ОРЕНБУРГСКОЙ ОБЛАСТИ",
+        "style": null,
+        "pageBreak": false,
+        "drawing": 0
+      },
+      {
+        "type": "p",
+        "text": "ГОСУДАРСТВЕННОЕ АВТОНОМНОЕ ПРОФЕССИОНАЛЬНОЕ",
+        "style": null,
+        "pageBreak": false,
+        "drawing": 0
+      },
+      {
+        "type": "p",
+        "text": "ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ",
+        "style": null,
+        "pageBreak": false,
+        "drawing": 0
+      },
+      {
+        "type": "p",
+        "text": "«ОРЕНБУРГСКИЙ КОЛЛЕДЖ ЭКОНОМИКИ И ИНФОРМАТИКИ»",
+        "style": null,
+        "pageBreak": false,
+        "drawing": 0
+      },
+      {
+        "type": "p",
+        "text": "(ГАПОУ ОКЭИ)",
+        "style": null,
+        "pageBreak": false,
+        "drawing": 0
+      },
+      {
+        "type": "p",
+        "text": "ОТЧЕТ ПО ПРАКТИКЕ",
+        "style": null,
+        "pageBreak": false,
+        "drawing": 0
+      },
+      {
+        "type": "p",
+        "text": "ОКЭИ 09.02.07. 3026. 11 ПЗ",
+        "style": "183",
+        "pageBreak": false,
+        "drawing": 0
+      },
+      {
+        "type": "p",
+        "text": "(код документа)",
+        "style": "183",
+        "pageBreak": false,
+        "drawing": 0
+      },
+      {
+        "type": "table",
+        "rows": [
+          [
+            "Эксплуатация объектов сетевой инфраструктуры"
+          ],
+          [
+            ""
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "rows": [
+          [
+            "Количество листов",
+            "46"
+          ],
+          [
+            "Дата готовности",
+            "19.03.2026"
+          ],
+          [
+            "Руководитель",
+            "Иванова В.И"
+          ],
+          [
+            "Разработал",
+            "Иванова В.И."
+          ],
+          [
+            "Защищен",
+            "",
+            "с оценкой",
+            ""
+          ]
+        ]
+      },
+      {
+        "type": "p",
+        "text": "Оренбург 2026",
+        "style": null,
+        "pageBreak": false,
+        "drawing": 0
+      },
+      {
+        "type": "p",
+        "text": "Содержание",
+        "style": null,
+        "pageBreak": false,
+        "drawing": 0
+      },
+      {
+        "type": "p",
+        "text": "Введение",
+        "style": "3",
+        "pageBreak": true,
+        "drawing": 0
+      }
+    ],
+    "sections": [
+      {
+        "page": {
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}w": "11906",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}h": "16838"
+        },
+        "margins": {
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}top": "851",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}right": "566",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}bottom": "1134",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}left": "1701",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}header": "709",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}footer": "709",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}gutter": "0"
+        },
+        "headers": [
+          {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId3",
+            "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}type": "first"
+          }
+        ],
+        "footers": [
+          {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId5",
+            "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}type": "first"
+          },
+          {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId4",
+            "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}type": "default"
+          }
+        ],
+        "type": {}
+      },
+      {
+        "page": {
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}w": "11906",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}h": "16838"
+        },
+        "margins": {
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}top": "851",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}right": "566",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}bottom": "1134",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}left": "1701",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}header": "709",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}footer": "709",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}gutter": "0"
+        },
+        "headers": [
+          {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId7",
+            "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}type": "first"
+          },
+          {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId6",
+            "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}type": "default"
+          }
+        ],
+        "footers": [
+          {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId9",
+            "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}type": "first"
+          },
+          {
+            "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id": "rId8",
+            "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}type": "default"
+          }
+        ],
+        "type": {}
+      },
+      {
+        "page": {
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}w": "11906",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}h": "16838"
+        },
+        "margins": {
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}top": "1134",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}right": "566",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}bottom": "1587",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}left": "1701",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}header": "708",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}footer": "708",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}gutter": "0"
+        },
+        "headers": [],
+        "footers": [],
+        "type": {
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val": "continuous"
+        }
+      }
+    ],
+    "drawings": 0
+  },
+  "stories": {
+    "header1.xml": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": "ОКЭИ 09.02.07. 3024. № 11 УИзм.Лист№ докумПодписьДатаРазраб.Иванова В.И.Курсовой проектЛит.ЛистЛистовПровер.Балакин О.Д.y2NРеценз.Отделение программирования, гр. 4вб1Н. Контр.Утверд.ОКЭИ 09.02.07. 3024. № 11 УИзм.Лист№ докумПодписьДатаРазраб.Иванова В.И.Курсовой проектЛит.ЛистЛистовПровер.Балакин О.Д.y2NРеценз.Отделение программирования, гр. 4вб1Н. Контр.Утверд.",
+          "style": "22",
+          "pageBreak": false,
+          "drawing": 2
+        }
+      ],
+      "sections": [],
+      "drawings": 2
+    },
+    "header2.xml": {
+      "blocks": [],
+      "sections": [],
+      "drawings": 0
+    },
+    "header3.xml": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": "ОКЭИ 09.02.07. 3026. 11 УИзм.Лист№ докумПодписьДатаРазраб.Иванова В.И.Учебная практикаЛит.ЛистЛистовПровер.Иванова В.И.y246Реценз.Отделение программирования, гр. 3ВБ2Н. Контр.Утверд.ОКЭИ 09.02.07. 3026. 11 УИзм.Лист№ докумПодписьДатаРазраб.Иванова В.И.Учебная практикаЛит.ЛистЛистовПровер.Иванова В.И.y246Реценз.Отделение программирования, гр. 3ВБ2Н. Контр.Утверд.",
+          "style": "22",
+          "pageBreak": false,
+          "drawing": 2
+        }
+      ],
+      "sections": [],
+      "drawings": 2
+    },
+    "footer1.xml": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": "",
+          "style": "33",
+          "pageBreak": false,
+          "drawing": 2
+        }
+      ],
+      "sections": [],
+      "drawings": 2
+    },
+    "footer2.xml": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": "11",
+          "style": "33",
+          "pageBreak": false,
+          "drawing": 2
+        }
+      ],
+      "sections": [],
+      "drawings": 2
+    },
+    "footer3.xml": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": "ОКЭИ 09.02.07. 3026. 11 ПЗЛист1Изм.Лист№ докумПодписьДатаОКЭИ 09.02.07. 3026. 11 ПЗЛист1Изм.Лист№ докумПодписьДата",
+          "style": "33",
+          "pageBreak": false,
+          "drawing": 4
+        }
+      ],
+      "sections": [],
+      "drawings": 4
+    },
+    "footer4.xml": {
+      "blocks": [
+        {
+          "type": "p",
+          "text": "11",
+          "style": "33",
+          "pageBreak": false,
+          "drawing": 2
+        }
+      ],
+      "sections": [],
+      "drawings": 2
+    }
+  },
+  "appProperties": "<Properties xmlns=\"http://schemas.openxmlformats.org/officeDocument/2006/extended-properties\" xmlns:vt=\"http://schemas.openxmlformats.org/officeDocument/2006/docPropsVTypes\"><Template>Normal.dotm</Template><Pages>9</Pages><Words>173</Words><Characters>1266</Characters><TotalTime>17</TotalTime><ScaleCrop>false</ScaleCrop><LinksUpToDate>false</LinksUpToDate><CharactersWithSpaces>1445</CharactersWithSpaces><Application>WPS Office_12.1.0.29162_F1E327BC-269C-435d-A152-05C5408002CA</Application><DocSecurity>0</DocSecurity></Properties>"
+}

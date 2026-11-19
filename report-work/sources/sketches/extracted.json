@@ -1,0 +1,43 @@
+{
+  "document": {
+    "blocks": [
+      {
+        "type": "p",
+        "text": "",
+        "style": null,
+        "pageBreak": false,
+        "drawing": 1
+      },
+      {
+        "type": "p",
+        "text": "",
+        "style": null,
+        "pageBreak": false,
+        "drawing": 1
+      }
+    ],
+    "sections": [
+      {
+        "page": {
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}w": "11906",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}h": "16838"
+        },
+        "margins": {
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}top": "1440",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}right": "1800",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}bottom": "1440",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}left": "1800",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}header": "720",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}footer": "720",
+          "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}gutter": "0"
+        },
+        "headers": [],
+        "footers": [],
+        "type": {}
+      }
+    ],
+    "drawings": 2
+  },
+  "stories": {},
+  "appProperties": "<Properties xmlns=\"http://schemas.openxmlformats.org/officeDocument/2006/extended-properties\" xmlns:vt=\"http://schemas.openxmlformats.org/officeDocument/2006/docPropsVTypes\"><Template>Normal.dotm</Template><Pages>2</Pages><Words>0</Words><Characters>0</Characters><Lines>0</Lines><Paragraphs>0</Paragraphs><TotalTime>0</TotalTime><ScaleCrop>false</ScaleCrop><LinksUpToDate>false</LinksUpToDate><CharactersWithSpaces>0</CharactersWithSpaces><Application>WPS Office_12.1.0.29162_F1E327BC-269C-435d-A152-05C5408002CA</Application><DocSecurity>0</DocSecurity></Properties>"
+}
